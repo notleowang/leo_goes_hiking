@@ -14,6 +14,8 @@ What you can expect from this website:
 [![Vite][Vite-Badge]][Vite-URL]
 [![React][React-Badge]][React-URL]
 [![Tailwind][Tailwind-Badge]][Tailwind-URL]
+[![XD][XD-Badge]][XD-URL]
+[![AI][AI-Badge]][AI-URL]
 
 [Node-Badge]: https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=Node.js&logoColor=339933
 [Node-URL]: https://nodejs.org/en
@@ -23,6 +25,10 @@ What you can expect from this website:
 [React-URL]: https://react.dev/
 [Tailwind-Badge]: https://img.shields.io/badge/Tailwind-0f0f0f?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4
 [Tailwind-URL]: https://tailwindcss.com/
+[XD-Badge]: https://img.shields.io/badge/Adobe%20XD-0f0f0f?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6
+[XD-URL]: https://www.adobe.com/ca/
+[AI-Badge]: https://img.shields.io/badge/Adobe%20Illustrator-0f0f0f?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=FF9A00
+[AI-URL]: https://www.adobe.com/ca/
 
 ## Getting Started
 Follow these instructions if you wish to run the website locally.
