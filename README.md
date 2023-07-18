@@ -49,7 +49,11 @@ git clone https://github.com/notleowang/leo_goes_hiking.git
 ```sh
 npm install
 ```
-3. Run dev script in terminal
+3. Set current directory to `<clone_dir>/leo_goes_hiking/vite-project`
+```sh
+cd vite-project
+```
+4. Run dev script
 ```sh
 npm run dev
 ```
