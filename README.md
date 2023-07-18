@@ -38,7 +38,7 @@ Follow these instructions if you wish to run the website locally.
 ```sh
 npm --version
 ```
-2. If you do not have `npm` installed, you can get the current version from [Node.js](https://nodejs.org/en)
+2. If you do not have `npm` installed, you can get the latest release from [Node.js](https://nodejs.org/en)
 
 ### Installation
 1. Clone the repository
