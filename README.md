@@ -34,26 +34,26 @@ What you can expect from this website:
 Follow these instructions if you wish to run the website locally.
 
 ### Prerequisites
-1. Check if you have `npm` installed
+1. Check if you have `npm` installed.
 ```sh
 npm --version
 ```
-2. If you do not have `npm` installed, you can get the latest release from [Node.js](https://nodejs.org/en)
+2. If you do not have `npm` installed, you can get the latest release from [Node.js](https://nodejs.org/en).
 
 ### Installation
-1. Clone the repository
+1. Clone the repository.
 ```sh
 git clone https://github.com/notleowang/leo_goes_hiking.git
 ```
-2. Install NPM packages
+2. Install NPM packages.
 ```sh
 npm install
 ```
-3. Set current directory to `<clone_dir>/leo_goes_hiking/vite-project`
+3. Set current directory to `<clone_dir>/leo_goes_hiking/vite-project`.
 ```sh
 cd vite-project
 ```
-4. Run dev script
+4. Run dev script.
 ```sh
 npm run dev
 ```
