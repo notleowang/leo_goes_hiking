@@ -1,14 +1,16 @@
 const NavBar = () => {
     return (
-        <div className="fixed h-[61px] mx-auto w-screen flex flex-row justify-between text-brown bg-blue-500">
-            <div><img src="/Logo.svg"></img></div>
-            <div className="flex bg-red-500">
-                <p>home</p>
-                <p>about</p>
-                <p>hikes</p>
-                <p>contact</p>
-            </div>
-        </div>
+        <section className="pt-[63px]">
+            <nav className="flex justify-between">
+                <img className="cursor-pointer" src="/Logo.svg"></img>
+                <ul className="flex gap-[57px] text-2xl items-center text-brown">
+                    <li className="cursor-pointer">home</li>
+                    <li className="cursor-pointer">about</li>
+                    <li className="cursor-pointer">hikes</li>
+                    <li className="cursor-pointer">contact</li>
+                </ul>
+            </nav>
+        </section>
     );
 };
 
