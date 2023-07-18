@@ -14,7 +14,7 @@ const Hero = () => {
                     </p>
                 </div>
                 <div className="flex justify-end items-end basis-1/3 relative whitespace-nowrap">
-                    <h2 className="text-[24px] text-pastel font-bold text-right mr-[41px] z-10">EXPLORE HIKES</h2>
+                    <h2 className="text-[24px] text-pastel font-bold text-right mr-[41px] z-10 cursor-pointer">EXPLORE HIKES</h2>
                     <img className="cursor-pointer absolute -bottom-[10px] z-0" src="/Button.svg"></img>
                 </div>
             </div>
