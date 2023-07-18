@@ -1,0 +1,7 @@
+<svg id="Mountain" xmlns="http://www.w3.org/2000/svg" width="70.005" height="41.144" viewBox="0 0 70.005 41.144">
+  <path id="Base" d="M180.77,155.98l-16.057,28.086-11.443-19.82-18.982,32.878h70.005Z" transform="translate(-134.287 -155.98)" fill="#aa8b56"/>
+  <g id="Peaks" transform="translate(11.805 3.025)">
+    <path id="Path_18" data-name="Path 18" d="M186.712,204.083l-6.222-10.776-3.392,5.875h0l-3.785,6.556,4.266-2.374,2.911,1.694,1.42-3.422h0Z" transform="translate(-173.313 -185.04)" fill="#f0ebce"/>
+    <path id="Path_19" data-name="Path 19" d="M267.268,176.757l6.222-10.776,3.392,5.875h0l3.785,6.556-4.266-2.374-2.911,1.694-1.42-3.422h0Z" transform="translate(-238.847 -165.981)" fill="#f0ebce"/>
+  </g>
+</svg>
