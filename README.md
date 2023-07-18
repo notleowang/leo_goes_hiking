@@ -57,3 +57,8 @@ cd vite-project
 ```sh
 npm run dev
 ```
+
+## Acknowledgements
+Personal thanks and shoutouts to the following people/websites/documents that were used to contribute to this project.
+- [Idea to add Longitude and Latitude Coordinates](https://imgur.com/a/Vt87JvO)
+- [ImgShields](https://shields.io/)
