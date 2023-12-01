@@ -47,13 +47,13 @@ npm --version
 ```sh
 git clone https://github.com/notleowang/leo_goes_hiking.git
 ```
-2. Install NPM packages.
-```sh
-npm install
-```
-3. Set current directory to `<clone_dir>/leo_goes_hiking/vite-project`.
+2. Set current directory to `<clone_dir>/leo_goes_hiking/vite-project`.
 ```sh
 cd vite-project
+```
+3. Install NPM packages.
+```sh
+npm install
 ```
 4. Run dev script.
 ```sh
