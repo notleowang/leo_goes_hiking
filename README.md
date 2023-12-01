@@ -13,7 +13,9 @@ What you can expect from this website:
 [![Nodejs][Node-Badge]][Node-URL]
 [![Vite][Vite-Badge]][Vite-URL]
 [![React][React-Badge]][React-URL]
-[![Tailwind][Tailwind-Badge]][Tailwind-URL] \
+[![Tailwind][Tailwind-Badge]][Tailwind-URL]
+
+### Designed With
 [![XD][XD-Badge]][XD-URL]
 [![AI][AI-Badge]][AI-URL]
 
